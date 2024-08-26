@@ -1,0 +1,11 @@
+{
+  "name": "fetch_harry",
+  "version": "1.0.0",
+  "description": "servidor para datos",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "json-server --watch characters.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
